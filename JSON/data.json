@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Revenue",
+    "value": "$20,000"
+  },
+  {
+    "label": "Orders",
+    "value": "5,000"
+  },
+  {
+    "label": "Dine In",
+    "value": "4,000"
+  },
+  {
+    "label": "Take Away",
+    "value": "8,000"
+  }
+]
